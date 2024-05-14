@@ -27,7 +27,7 @@ Report: A detailed PDF or Word document containing all answers, formulas, graphs
 Supporting Documents: A zipped folder with Excel or R files providing evidence of the work done.
 
 Tools Used
-xcel for data analysis and simulation.
+Excel for data analysis and simulation.
 Learning Outcomes
 This project assesses the ability to model and solve problems using forecasting and simulation techniques, analyze results, and discuss solutions. It also emphasizes professional report presentation and adherence to academic integrity.
 
