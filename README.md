@@ -33,3 +33,5 @@ This project assesses the ability to model and solve problems using forecasting 
 
 Usage
 To run the analysis and simulations, you can use the provided Excel or R scripts included in the repository. Detailed instructions and explanations are provided in the report document.
+
+The video games file is an excel file that is zipped download and upload to excel to be able to view it.
